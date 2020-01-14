@@ -1,0 +1,6 @@
+C:\Users\xp660\Desktop\最短路徑\short\shortest\obj\Debug\shortest.csprojAssemblyReference.cache
+C:\Users\xp660\Desktop\最短路徑\short\shortest\bin\Debug\shortest.exe.config
+C:\Users\xp660\Desktop\最短路徑\short\shortest\bin\Debug\shortest.exe
+C:\Users\xp660\Desktop\最短路徑\short\shortest\bin\Debug\shortest.pdb
+C:\Users\xp660\Desktop\最短路徑\short\shortest\obj\Debug\shortest.exe
+C:\Users\xp660\Desktop\最短路徑\short\shortest\obj\Debug\shortest.pdb
