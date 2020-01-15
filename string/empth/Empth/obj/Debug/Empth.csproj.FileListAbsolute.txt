@@ -1,0 +1,6 @@
+C:\Users\xp660\Desktop\C#練習\string\empth\Empth\bin\Debug\Empth.exe.config
+C:\Users\xp660\Desktop\C#練習\string\empth\Empth\bin\Debug\Empth.exe
+C:\Users\xp660\Desktop\C#練習\string\empth\Empth\bin\Debug\Empth.pdb
+C:\Users\xp660\Desktop\C#練習\string\empth\Empth\obj\Debug\Empth.csprojAssemblyReference.cache
+C:\Users\xp660\Desktop\C#練習\string\empth\Empth\obj\Debug\Empth.exe
+C:\Users\xp660\Desktop\C#練習\string\empth\Empth\obj\Debug\Empth.pdb
