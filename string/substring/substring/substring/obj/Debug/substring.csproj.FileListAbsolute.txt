@@ -1,0 +1,6 @@
+C:\Users\xp660\Desktop\C#練習\string\substring\substring\substring\bin\Debug\substring.exe.config
+C:\Users\xp660\Desktop\C#練習\string\substring\substring\substring\bin\Debug\substring.exe
+C:\Users\xp660\Desktop\C#練習\string\substring\substring\substring\bin\Debug\substring.pdb
+C:\Users\xp660\Desktop\C#練習\string\substring\substring\substring\obj\Debug\substring.csprojAssemblyReference.cache
+C:\Users\xp660\Desktop\C#練習\string\substring\substring\substring\obj\Debug\substring.exe
+C:\Users\xp660\Desktop\C#練習\string\substring\substring\substring\obj\Debug\substring.pdb
