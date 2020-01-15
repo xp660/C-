@@ -1,0 +1,6 @@
+C:\Users\xp660\Desktop\C#練習\ReadWrite\StringRW\StreamRW\StreamRW\obj\Debug\StreamRW.csprojAssemblyReference.cache
+C:\Users\xp660\Desktop\C#練習\ReadWrite\StringRW\StreamRW\StreamRW\bin\Debug\StreamRW.exe.config
+C:\Users\xp660\Desktop\C#練習\ReadWrite\StringRW\StreamRW\StreamRW\bin\Debug\StreamRW.exe
+C:\Users\xp660\Desktop\C#練習\ReadWrite\StringRW\StreamRW\StreamRW\bin\Debug\StreamRW.pdb
+C:\Users\xp660\Desktop\C#練習\ReadWrite\StringRW\StreamRW\StreamRW\obj\Debug\StreamRW.exe
+C:\Users\xp660\Desktop\C#練習\ReadWrite\StringRW\StreamRW\StreamRW\obj\Debug\StreamRW.pdb
