@@ -1,0 +1,6 @@
+C:\Users\xp660\Desktop\C#練習\string\format\format\bin\Debug\format.exe.config
+C:\Users\xp660\Desktop\C#練習\string\format\format\bin\Debug\format.exe
+C:\Users\xp660\Desktop\C#練習\string\format\format\bin\Debug\format.pdb
+C:\Users\xp660\Desktop\C#練習\string\format\format\obj\Debug\format.csprojAssemblyReference.cache
+C:\Users\xp660\Desktop\C#練習\string\format\format\obj\Debug\format.exe
+C:\Users\xp660\Desktop\C#練習\string\format\format\obj\Debug\format.pdb
