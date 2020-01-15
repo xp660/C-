@@ -1,0 +1,6 @@
+C:\Users\xp660\Desktop\C#練習\string\length\Split\bin\Debug\Split.exe.config
+C:\Users\xp660\Desktop\C#練習\string\length\Split\bin\Debug\Split.exe
+C:\Users\xp660\Desktop\C#練習\string\length\Split\bin\Debug\Split.pdb
+C:\Users\xp660\Desktop\C#練習\string\length\Split\obj\Debug\Split.csprojAssemblyReference.cache
+C:\Users\xp660\Desktop\C#練習\string\length\Split\obj\Debug\Split.exe
+C:\Users\xp660\Desktop\C#練習\string\length\Split\obj\Debug\Split.pdb
