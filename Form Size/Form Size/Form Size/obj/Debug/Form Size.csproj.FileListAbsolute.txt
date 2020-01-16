@@ -1,0 +1,9 @@
+C:\Users\xp660\Desktop\C#練習\Form Size\Form Size\Form Size\bin\Debug\Form Size.exe.config
+C:\Users\xp660\Desktop\C#練習\Form Size\Form Size\Form Size\bin\Debug\Form Size.exe
+C:\Users\xp660\Desktop\C#練習\Form Size\Form Size\Form Size\bin\Debug\Form Size.pdb
+C:\Users\xp660\Desktop\C#練習\Form Size\Form Size\Form Size\obj\Debug\Form Size.csprojAssemblyReference.cache
+C:\Users\xp660\Desktop\C#練習\Form Size\Form Size\Form Size\obj\Debug\Form_Size.Form1.resources
+C:\Users\xp660\Desktop\C#練習\Form Size\Form Size\Form Size\obj\Debug\Form_Size.Properties.Resources.resources
+C:\Users\xp660\Desktop\C#練習\Form Size\Form Size\Form Size\obj\Debug\Form Size.csproj.GenerateResource.cache
+C:\Users\xp660\Desktop\C#練習\Form Size\Form Size\Form Size\obj\Debug\Form Size.exe
+C:\Users\xp660\Desktop\C#練習\Form Size\Form Size\Form Size\obj\Debug\Form Size.pdb
