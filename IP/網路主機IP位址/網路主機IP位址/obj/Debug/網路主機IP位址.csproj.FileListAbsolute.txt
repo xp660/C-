@@ -1,0 +1,6 @@
+C:\Users\xp660\Desktop\C#練習\IP\網路主機IP位址\網路主機IP位址\bin\Debug\網路主機IP位址.exe.config
+C:\Users\xp660\Desktop\C#練習\IP\網路主機IP位址\網路主機IP位址\bin\Debug\網路主機IP位址.exe
+C:\Users\xp660\Desktop\C#練習\IP\網路主機IP位址\網路主機IP位址\bin\Debug\網路主機IP位址.pdb
+C:\Users\xp660\Desktop\C#練習\IP\網路主機IP位址\網路主機IP位址\obj\Debug\網路主機IP位址.csprojAssemblyReference.cache
+C:\Users\xp660\Desktop\C#練習\IP\網路主機IP位址\網路主機IP位址\obj\Debug\網路主機IP位址.exe
+C:\Users\xp660\Desktop\C#練習\IP\網路主機IP位址\網路主機IP位址\obj\Debug\網路主機IP位址.pdb
