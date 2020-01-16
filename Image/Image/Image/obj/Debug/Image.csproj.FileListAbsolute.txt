@@ -1,0 +1,9 @@
+C:\Users\xp660\Desktop\C#練習\Image\Image\Image\obj\Debug\Image.csprojAssemblyReference.cache
+C:\Users\xp660\Desktop\C#練習\Image\Image\Image\obj\Debug\Image.Form1.resources
+C:\Users\xp660\Desktop\C#練習\Image\Image\Image\obj\Debug\Image.Properties.Resources.resources
+C:\Users\xp660\Desktop\C#練習\Image\Image\Image\obj\Debug\Image.csproj.GenerateResource.cache
+C:\Users\xp660\Desktop\C#練習\Image\Image\Image\bin\Debug\Image.exe.config
+C:\Users\xp660\Desktop\C#練習\Image\Image\Image\bin\Debug\Image.exe
+C:\Users\xp660\Desktop\C#練習\Image\Image\Image\bin\Debug\Image.pdb
+C:\Users\xp660\Desktop\C#練習\Image\Image\Image\obj\Debug\Image.exe
+C:\Users\xp660\Desktop\C#練習\Image\Image\Image\obj\Debug\Image.pdb
