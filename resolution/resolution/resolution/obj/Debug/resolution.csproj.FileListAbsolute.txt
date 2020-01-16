@@ -1,0 +1,9 @@
+C:\Users\xp660\Desktop\C#練習\resolution\resolution\resolution\obj\Debug\resolution.csprojAssemblyReference.cache
+C:\Users\xp660\Desktop\C#練習\resolution\resolution\resolution\obj\Debug\resolution.Form1.resources
+C:\Users\xp660\Desktop\C#練習\resolution\resolution\resolution\obj\Debug\resolution.Properties.Resources.resources
+C:\Users\xp660\Desktop\C#練習\resolution\resolution\resolution\obj\Debug\resolution.csproj.GenerateResource.cache
+C:\Users\xp660\Desktop\C#練習\resolution\resolution\resolution\bin\Debug\resolution.exe.config
+C:\Users\xp660\Desktop\C#練習\resolution\resolution\resolution\bin\Debug\resolution.exe
+C:\Users\xp660\Desktop\C#練習\resolution\resolution\resolution\bin\Debug\resolution.pdb
+C:\Users\xp660\Desktop\C#練習\resolution\resolution\resolution\obj\Debug\resolution.exe
+C:\Users\xp660\Desktop\C#練習\resolution\resolution\resolution\obj\Debug\resolution.pdb
