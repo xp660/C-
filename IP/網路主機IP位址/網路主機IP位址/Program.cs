@@ -25,6 +25,8 @@ namespace 網路主機IP位址
                 // Store the list of IP adresses
                 IPAddress[] ipAddr = ipHost.AddressList;
 
+                Console.WriteLine("IP number:{0}",ipAddr.Length);
+
                 // Loop to actually display the IP
                 for(int x = 0; x < ipAddr.Length; x++)
                 {
