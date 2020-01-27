@@ -1,0 +1,6 @@
+C:\Users\xp660\Desktop\C#練習\sleep\sleep\sleep\bin\Debug\sleep.exe.config
+C:\Users\xp660\Desktop\C#練習\sleep\sleep\sleep\bin\Debug\sleep.exe
+C:\Users\xp660\Desktop\C#練習\sleep\sleep\sleep\bin\Debug\sleep.pdb
+C:\Users\xp660\Desktop\C#練習\sleep\sleep\sleep\obj\Debug\sleep.csprojAssemblyReference.cache
+C:\Users\xp660\Desktop\C#練習\sleep\sleep\sleep\obj\Debug\sleep.exe
+C:\Users\xp660\Desktop\C#練習\sleep\sleep\sleep\obj\Debug\sleep.pdb
