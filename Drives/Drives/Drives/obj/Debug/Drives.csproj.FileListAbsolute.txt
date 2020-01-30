@@ -1,0 +1,9 @@
+C:\Users\xp660\Desktop\C#練習\Drives\Drives\Drives\bin\Debug\Drives.exe.config
+C:\Users\xp660\Desktop\C#練習\Drives\Drives\Drives\bin\Debug\Drives.exe
+C:\Users\xp660\Desktop\C#練習\Drives\Drives\Drives\bin\Debug\Drives.pdb
+C:\Users\xp660\Desktop\C#練習\Drives\Drives\Drives\obj\Debug\Drives.csprojAssemblyReference.cache
+C:\Users\xp660\Desktop\C#練習\Drives\Drives\Drives\obj\Debug\Drives.Form1.resources
+C:\Users\xp660\Desktop\C#練習\Drives\Drives\Drives\obj\Debug\Drives.Properties.Resources.resources
+C:\Users\xp660\Desktop\C#練習\Drives\Drives\Drives\obj\Debug\Drives.csproj.GenerateResource.cache
+C:\Users\xp660\Desktop\C#練習\Drives\Drives\Drives\obj\Debug\Drives.exe
+C:\Users\xp660\Desktop\C#練習\Drives\Drives\Drives\obj\Debug\Drives.pdb
