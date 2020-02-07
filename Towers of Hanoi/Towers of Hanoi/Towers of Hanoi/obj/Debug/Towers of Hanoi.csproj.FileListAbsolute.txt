@@ -1,0 +1,6 @@
+C:\Users\xp660\Desktop\C#練習\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\bin\Debug\Towers of Hanoi.exe.config
+C:\Users\xp660\Desktop\C#練習\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\bin\Debug\Towers of Hanoi.exe
+C:\Users\xp660\Desktop\C#練習\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\bin\Debug\Towers of Hanoi.pdb
+C:\Users\xp660\Desktop\C#練習\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers of Hanoi.csprojAssemblyReference.cache
+C:\Users\xp660\Desktop\C#練習\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers of Hanoi.exe
+C:\Users\xp660\Desktop\C#練習\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers of Hanoi.pdb

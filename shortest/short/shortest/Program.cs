@@ -83,8 +83,8 @@ namespace shortest
                 {
                     find_Shortest(&Nd);     //找尚未找過且與V0最近的節點Nd
 
-                    if (PreNode[Nd] == -1)
-                        PreNode[Nd] = Start;
+                    //if (PreNode[Nd] == -1)
+                    //    PreNode[Nd] = Start;
                     Decided[Nd] = 1;
 
                     for (w = 0; w < N; w++)

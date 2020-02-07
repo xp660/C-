@@ -38,6 +38,10 @@ namespace Image
                 Bitmap myBmp = new Bitmap(openFileDialog1.FileName);
                 pictureBox1.Image = (System.Drawing.Image)myBmp;
 
+                pictureBox1.Height = myBmp.Height;
+                pictureBox1.Width = myBmp.Width;
+                
+
                 //將影像像素顏色資訊轉為陣列:
                 int Height = myBmp.Height;
                 int Width = myBmp.Width;
