@@ -1,0 +1,13 @@
+C:\Users\xp660\Desktop\C#練習\RGB to Lab色彩轉換工具\RGB2Lab\obj\Debug\RGB2Lab.csprojAssemblyReference.cache
+C:\Users\xp660\Desktop\C#練習\RGB to Lab色彩轉換工具\RGB2Lab\obj\Debug\RGB2Lab.Form1.resources
+C:\Users\xp660\Desktop\C#練習\RGB to Lab色彩轉換工具\RGB2Lab\obj\Debug\RGB2Lab.Properties.Resources.resources
+C:\Users\xp660\Desktop\C#練習\RGB to Lab色彩轉換工具\RGB2Lab\obj\Debug\RGB2Lab.csproj.GenerateResource.cache
+C:\Users\xp660\Desktop\C#練習\RGB to Lab色彩轉換工具\RGB2Lab\bin\Debug\RGB2Lab.exe.config
+C:\Users\xp660\Desktop\C#練習\RGB to Lab色彩轉換工具\RGB2Lab\bin\Debug\RGB2Lab.exe
+C:\Users\xp660\Desktop\C#練習\RGB to Lab色彩轉換工具\RGB2Lab\bin\Debug\RGB2Lab.pdb
+C:\Users\xp660\Desktop\C#練習\RGB to Lab色彩轉換工具\RGB2Lab\bin\Debug\CsharpCreateDLL.exe
+C:\Users\xp660\Desktop\C#練習\RGB to Lab色彩轉換工具\RGB2Lab\bin\Debug\CsharpCreateDLL.pdb
+C:\Users\xp660\Desktop\C#練習\RGB to Lab色彩轉換工具\RGB2Lab\bin\Debug\CsharpCreateDLL.exe.config
+C:\Users\xp660\Desktop\C#練習\RGB to Lab色彩轉換工具\RGB2Lab\obj\Debug\RGB2Lab.csproj.CopyComplete
+C:\Users\xp660\Desktop\C#練習\RGB to Lab色彩轉換工具\RGB2Lab\obj\Debug\RGB2Lab.exe
+C:\Users\xp660\Desktop\C#練習\RGB to Lab色彩轉換工具\RGB2Lab\obj\Debug\RGB2Lab.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RGB2Lab", "RGB2Lab.csproj", "{CADB4B43-48B9-4187-BDE7-5626390A43B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CADB4B43-48B9-4187-BDE7-5626390A43B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADB4B43-48B9-4187-BDE7-5626390A43B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADB4B43-48B9-4187-BDE7-5626390A43B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADB4B43-48B9-4187-BDE7-5626390A43B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C33CFBF-B8B7-426C-B62B-906ACF1FF4A4}
+	EndGlobalSection
+EndGlobal

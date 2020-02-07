@@ -1,0 +1,6 @@
+C:\Users\xp660\Desktop\C#練習\RGB to Lab色彩轉換\CsharpCreateDLL\obj\Debug\CsharpCreateDLL.csprojAssemblyReference.cache
+C:\Users\xp660\Desktop\C#練習\RGB to Lab色彩轉換\CsharpCreateDLL\bin\Debug\CsharpCreateDLL.exe.config
+C:\Users\xp660\Desktop\C#練習\RGB to Lab色彩轉換\CsharpCreateDLL\bin\Debug\CsharpCreateDLL.exe
+C:\Users\xp660\Desktop\C#練習\RGB to Lab色彩轉換\CsharpCreateDLL\bin\Debug\CsharpCreateDLL.pdb
+C:\Users\xp660\Desktop\C#練習\RGB to Lab色彩轉換\CsharpCreateDLL\obj\Debug\CsharpCreateDLL.exe
+C:\Users\xp660\Desktop\C#練習\RGB to Lab色彩轉換\CsharpCreateDLL\obj\Debug\CsharpCreateDLL.pdb
