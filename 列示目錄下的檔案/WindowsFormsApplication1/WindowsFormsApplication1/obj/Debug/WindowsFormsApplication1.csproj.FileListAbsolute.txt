@@ -1,0 +1,9 @@
+C:\Users\xp660\Desktop\C#練習\列示目錄下的檔案\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\xp660\Desktop\C#練習\列示目錄下的檔案\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\xp660\Desktop\C#練習\列示目錄下的檔案\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\xp660\Desktop\C#練習\列示目錄下的檔案\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\xp660\Desktop\C#練習\列示目錄下的檔案\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\xp660\Desktop\C#練習\列示目錄下的檔案\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\xp660\Desktop\C#練習\列示目錄下的檔案\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\xp660\Desktop\C#練習\列示目錄下的檔案\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\xp660\Desktop\C#練習\列示目錄下的檔案\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
