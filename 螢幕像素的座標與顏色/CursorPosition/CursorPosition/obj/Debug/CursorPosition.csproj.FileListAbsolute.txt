@@ -1,0 +1,9 @@
+C:\Users\xp660\Desktop\C#練習\螢幕像素的座標與顏色\CursorPosition\CursorPosition\obj\Debug\CursorPosition.csprojAssemblyReference.cache
+C:\Users\xp660\Desktop\C#練習\螢幕像素的座標與顏色\CursorPosition\CursorPosition\obj\Debug\CursorPosition.Properties.Resources.resources
+C:\Users\xp660\Desktop\C#練習\螢幕像素的座標與顏色\CursorPosition\CursorPosition\obj\Debug\CursorPosition.csproj.GenerateResource.cache
+C:\Users\xp660\Desktop\C#練習\螢幕像素的座標與顏色\CursorPosition\CursorPosition\bin\Debug\CursorPosition.exe.config
+C:\Users\xp660\Desktop\C#練習\螢幕像素的座標與顏色\CursorPosition\CursorPosition\bin\Debug\CursorPosition.exe
+C:\Users\xp660\Desktop\C#練習\螢幕像素的座標與顏色\CursorPosition\CursorPosition\bin\Debug\CursorPosition.pdb
+C:\Users\xp660\Desktop\C#練習\螢幕像素的座標與顏色\CursorPosition\CursorPosition\obj\Debug\CursorPosition.Form1.resources
+C:\Users\xp660\Desktop\C#練習\螢幕像素的座標與顏色\CursorPosition\CursorPosition\obj\Debug\CursorPosition.exe
+C:\Users\xp660\Desktop\C#練習\螢幕像素的座標與顏色\CursorPosition\CursorPosition\obj\Debug\CursorPosition.pdb

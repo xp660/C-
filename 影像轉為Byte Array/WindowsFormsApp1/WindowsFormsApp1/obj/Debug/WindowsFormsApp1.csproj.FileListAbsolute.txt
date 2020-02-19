@@ -1,0 +1,9 @@
+C:\Users\xp660\Desktop\C#練習\影像轉為Byte Array\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\xp660\Desktop\C#練習\影像轉為Byte Array\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\xp660\Desktop\C#練習\影像轉為Byte Array\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\xp660\Desktop\C#練習\影像轉為Byte Array\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\xp660\Desktop\C#練習\影像轉為Byte Array\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\xp660\Desktop\C#練習\影像轉為Byte Array\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\xp660\Desktop\C#練習\影像轉為Byte Array\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\xp660\Desktop\C#練習\影像轉為Byte Array\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\xp660\Desktop\C#練習\影像轉為Byte Array\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
