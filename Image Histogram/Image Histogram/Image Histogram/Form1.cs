@@ -255,6 +255,21 @@ namespace Image_Histogram
                     g.DrawLine(myPen,
                         new PointF(xPos, yPos),
                         new PointF(xPos, yPos - (int)(myValues[i] * myYUnit)));
+
+                    //We plot the coresponding index for the maximum value.
+                    if (myValues[i] == getMaxim(myValues))
+                    {
+                        SizeF mySize = g.MeasureString(i.ToString(), myFont);
+                        g.DrawString(i.ToString(), myFont,
+                           new SolidBrush(myColor),
+                           new PointF(myOffset + (i * myXUnit) - (mySize.Width / 2),
+                           this.pictureBox3.Height - myFont.Height),
+                           System.Drawing.StringFormat.GenericDefault);
+
+                        
+
+                    }
+
                 }
                     g.DrawString("0", myFont, new SolidBrush(myColor), new PointF(myOffset, this.pictureBox3.Height - myFont.Height), System.Drawing.StringFormat.GenericDefault);
                     g.DrawString((myValues.Length - 1).ToString(), myFont,new SolidBrush(myColor),

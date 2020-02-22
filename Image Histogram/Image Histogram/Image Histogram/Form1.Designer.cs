@@ -78,7 +78,7 @@
             "1",
             "2",
             "3"});
-            this.comboBox1.Location = new System.Drawing.Point(707, 366);
+            this.comboBox1.Location = new System.Drawing.Point(668, 492);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(121, 20);
             this.comboBox1.TabIndex = 3;
@@ -87,9 +87,9 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Location = new System.Drawing.Point(472, 90);
+            this.pictureBox3.Location = new System.Drawing.Point(457, 90);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(356, 259);
+            this.pictureBox3.Size = new System.Drawing.Size(413, 383);
             this.pictureBox3.TabIndex = 4;
             this.pictureBox3.TabStop = false;
             // 
