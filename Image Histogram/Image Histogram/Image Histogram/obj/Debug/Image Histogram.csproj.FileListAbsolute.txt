@@ -1,0 +1,9 @@
+C:\Users\xp660\Desktop\C#練習\Image Histogram\Image Histogram\Image Histogram\obj\Debug\Image Histogram.csprojAssemblyReference.cache
+C:\Users\xp660\Desktop\C#練習\Image Histogram\Image Histogram\Image Histogram\obj\Debug\Image_Histogram.Form1.resources
+C:\Users\xp660\Desktop\C#練習\Image Histogram\Image Histogram\Image Histogram\obj\Debug\Image_Histogram.Properties.Resources.resources
+C:\Users\xp660\Desktop\C#練習\Image Histogram\Image Histogram\Image Histogram\obj\Debug\Image Histogram.csproj.GenerateResource.cache
+C:\Users\xp660\Desktop\C#練習\Image Histogram\Image Histogram\Image Histogram\bin\Debug\Image Histogram.exe.config
+C:\Users\xp660\Desktop\C#練習\Image Histogram\Image Histogram\Image Histogram\bin\Debug\Image Histogram.exe
+C:\Users\xp660\Desktop\C#練習\Image Histogram\Image Histogram\Image Histogram\bin\Debug\Image Histogram.pdb
+C:\Users\xp660\Desktop\C#練習\Image Histogram\Image Histogram\Image Histogram\obj\Debug\Image Histogram.exe
+C:\Users\xp660\Desktop\C#練習\Image Histogram\Image Histogram\Image Histogram\obj\Debug\Image Histogram.pdb
